@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mushroom Undo</title>
+    <link>https://mushroom.github.io/</link>
+    <description>Recent content on Mushroom Undo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Mushroomp</copyright>
+    <lastBuildDate>Tue, 31 Aug 2021 23:35:41 +0800</lastBuildDate><atom:link href="https://mushroom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mood</title>
+      <link>https://mushroom.github.io/mood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mushroom.github.io/mood/</guid>
+      <description>Ne bougez pas de chez moi aujourd&amp;rsquo;hui.</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://mushroom.github.io/posts/post-1/</link>
+      <pubDate>Tue, 31 Aug 2021 23:35:41 +0800</pubDate>
+      
+      <guid>https://mushroom.github.io/posts/post-1/</guid>
+      <description>Noting happened.
+public static void main(String[] args) {System.out.println(&amp;#34;This is a print statement&amp;#34;);} </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mushroom.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mushroom.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
